@@ -1,0 +1,12 @@
+name = "3den CSO";
+author = "StDIABLO";
+//picture = "logo.paa";
+logoSmall = "";
+//logo = "logo.paa";
+//logoOver = "logoOver.paa";
+actionName = "3den CSO";
+//action = "";
+tooltipOwned = "It allows you to create simple objects in the editor with a single click";
+overview = "It allows you to create simple objects in the editor with a single click. No dependencies are created.";
+hideName = 0;
+hidePicture = 0;
